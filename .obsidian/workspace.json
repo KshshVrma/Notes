@@ -12,12 +12,14 @@
             "id": "dec64f83d3154bcb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "dsa/Sde sheet by Striver.pdf"
+                "file": "notetaking/ChatGPT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Sde sheet by Striver"
+              "icon": "lucide-file",
+              "title": "ChatGPT"
             }
           }
         ]
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa/Sde sheet by Striver.pdf",
+                "file": "notetaking/ChatGPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sde sheet by Striver"
+              "title": "Backlinks for ChatGPT"
             }
           },
           {
@@ -177,14 +179,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "publish:Publish changes...": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "dec64f83d3154bcb",
   "lastOpenFiles": [
+    "dsa/Sde sheet by Striver.pdf",
     "core subjects/Low Level Design Notes.pdf",
     "to-do/19th jan.md",
-    "dsa/Sde sheet by Striver.pdf",
     "aptitude/bshsjaja.pdf",
     "aptitude/aptitrick.pdf",
     "core subjects/React Js.pdf",
