@@ -17,3 +17,5 @@ url: 'https://chatgpt.com/c/678bd961-5700-800e-9e75-b0166e682f15'
 
 
 
+[[java functional programming]]
+
