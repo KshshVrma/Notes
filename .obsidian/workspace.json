@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/SQL Joins.md",
+                "file": "notetaking/c++ custom sort+ job seq prob.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Joins"
+              "title": "c++ custom sort+ job seq prob"
             }
           }
         ]
@@ -185,7 +185,11 @@
   },
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
+    "notetaking/RUM Conjecture.md",
+    "notetaking/c++ custom sort+ job seq prob.md",
+    "notetaking/API's.md",
     "books/Journey to Self.md",
+    "ai-llm/langchain.md",
     "notetaking/SQL Joins.md",
     "dsa/dsa_1.pdf",
     "Welcome.md",
@@ -195,7 +199,6 @@
     "notetaking/java functional programming.md",
     "notetaking/java streams.md",
     "notetaking/What is the difference between Google Kubernetes Engine (GKE) and Google Compute Engine (GCE).md",
-    "ai-llm/langchain.md",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
