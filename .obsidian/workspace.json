@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/c++ custom sort+ job seq prob.md",
+                "file": "notetaking/Canary Deployments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "c++ custom sort+ job seq prob"
+              "title": "Canary Deployments"
             }
           }
         ]
@@ -185,9 +185,10 @@
   },
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
-    "notetaking/RUM Conjecture.md",
+    "notetaking/Canary Deployments.md",
     "notetaking/c++ custom sort+ job seq prob.md",
     "notetaking/API's.md",
+    "notetaking/RUM Conjecture.md",
     "books/Journey to Self.md",
     "ai-llm/langchain.md",
     "notetaking/SQL Joins.md",
