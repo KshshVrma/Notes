@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Redis.md",
+                "file": "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "Whats OAuth2 Anyway - Blog by Roman Glushko"
             }
           }
         ]
@@ -185,10 +185,13 @@
   },
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
-    "notetaking/How DB stores data.md",
-    "notetaking/Redis.md",
-    "notetaking/Pass by value vs pass by reference.md",
+    "notetaking/Encoding and Decoding.md",
+    "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
     "books/Journey to Self.md",
+    "notetaking/BLOB.md",
+    "notetaking/Redis.md",
+    "notetaking/How DB stores data.md",
+    "notetaking/Pass by value vs pass by reference.md",
     "notetaking/blue green dep..md",
     "ai-llm/Retrieval Augmented Generation.md",
     "ai-llm/langchain.md",
@@ -209,17 +212,14 @@
     "notetaking/Reverse Proxy.md",
     "notetaking/java functional programming.md",
     "notetaking/java streams.md",
-    "notetaking/What is the difference between Google Kubernetes Engine (GKE) and Google Compute Engine (GCE).md",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
-    "to-do/19th jan.md",
     "aptitude/bshsjaja.pdf",
     "aptitude/aptitrick.pdf",
     "core subjects/React Js.pdf",
     "core subjects/Proper DBMS Notes.pdf",
     "core subjects/OOPS Interview Solutions.pdf",
-    "core subjects/MongoDB notes.pdf",
-    "Excalidraw/Drawing 2025-01-18 21.37.36.excalidraw.md"
+    "core subjects/MongoDB notes.pdf"
   ]
 }
