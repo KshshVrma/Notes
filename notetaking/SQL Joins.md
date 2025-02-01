@@ -11,3 +11,4 @@ Sort: both the tables are sorted and then mapped
 
 Hashing:
 	preparation is required to hash the id of the tables, post that it is a very efficient approach to join a table.
+[[ACID props]]
