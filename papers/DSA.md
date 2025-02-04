@@ -1,0 +1,8 @@
+- On the Shortest Spanning Subtree of a Graph and the Traveling Salesman Problem. [Kruskal (1956)](https://www.ams.org/proc/1956-007-01/S0002-9939-1956-0078686-7/S0002-9939-1956-0078686-7.pdf).
+- A Note on Two Problems in Connexion with Graphs. [Dijkstra (1959)](https://jmvidal.cse.sc.edu/library/dijkstra59a.pdf).
+- Quicksort. [Hoare (1962)](https://dl.acm.org/doi/pdf/10.5555/63445.C1104357).
+- Space/Time Trade-offs in Hash Coding with Allowable Errors. [Bloom (1970)](https://dl.acm.org/doi/pdf/10.1145/362686.362692).
+- The Ubiquitous B-Tree. [Comer (1979)](http://carlosproal.com/ir/papers/p121-comer.pdf).
+- Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
+- Programming pearls: The back of the envelope. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/357994.381168).
+- Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).

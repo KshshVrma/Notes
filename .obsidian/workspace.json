@@ -6,7 +6,7 @@
       {
         "id": "667e1b0556b08f9e",
         "type": "tabs",
-        "dimension": 69.88416988416989,
+        "dimension": 80.6949806949807,
         "children": [
           {
             "id": "ecb0d14105b97baa",
@@ -14,29 +14,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Journey.md",
+                "file": "papers/Blogs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journey"
+              "title": "Blogs"
+            }
+          },
+          {
+            "id": "789e321537b337e6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://mtlynch.io/code-review-love/",
+                "title": "How to Make Your Code Reviewer Fall in Love with You · mtlynch.io",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "How to Make Your Code Reviewer Fall in Love with You · mtlynch.io"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "36bddd8ddbd18b0c",
         "type": "tabs",
-        "dimension": 30.115830115830114,
+        "dimension": 19.305019305019304,
         "children": [
           {
             "id": "c363afd2c8903924",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -181,13 +196,19 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "ecb0d14105b97baa",
+  "active": "789e321537b337e6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "papers/Blogs.md",
+    "papers/DSA.md",
+    "papers/Database.md",
+    "papers/some good papers.md",
+    "notetaking/SQL execution.md",
     "books/Journey.md",
+    "Untitled.md",
     "notetaking/encoding example.md",
     "notetaking/Togglz poc.md",
     "notetaking/Toggles.md",
@@ -207,11 +228,6 @@
     "ai-llm/Retrieval Augmented Generation.md",
     "ai-llm/langchain.md",
     "notetaking/Database indexing.md",
-    "notetaking/Cluster vs pod vs container vs node.md",
-    "notetaking/Google Kubernetes Engine.md",
-    "ai-llm/Embeddings.md",
-    "ai-llm/chat history.md",
-    "notetaking/Canary Deployments.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
