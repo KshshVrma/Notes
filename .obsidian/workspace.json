@@ -6,7 +6,7 @@
       {
         "id": "667e1b0556b08f9e",
         "type": "tabs",
-        "dimension": 80.6949806949807,
+        "dimension": 83.81877022653723,
         "children": [
           {
             "id": "ecb0d14105b97baa",
@@ -23,26 +23,25 @@
             }
           },
           {
-            "id": "789e321537b337e6",
+            "id": "7fec758957ade9fe",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://mtlynch.io/code-review-love/",
-                "title": "How to Make Your Code Reviewer Fall in Love with You · mtlynch.io",
+                "url": "https://untools.co/",
+                "title": "Tools for better thinking | Untools",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "How to Make Your Code Reviewer Fall in Love with You · mtlynch.io"
+              "title": "Tools for better thinking | Untools"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "36bddd8ddbd18b0c",
         "type": "tabs",
-        "dimension": 19.305019305019304,
+        "dimension": 16.181229773462782,
         "children": [
           {
             "id": "c363afd2c8903924",
@@ -111,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d818c8a42e2ddf68",
@@ -200,12 +200,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "789e321537b337e6",
+  "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
     "papers/Blogs.md",
-    "papers/DSA.md",
-    "papers/Database.md",
     "papers/some good papers.md",
+    "notetaking/BLOB.md",
+    "books/5AC.md",
+    "papers/Database.md",
+    "papers/DSA.md",
     "notetaking/SQL execution.md",
     "books/Journey.md",
     "Untitled.md",
@@ -220,14 +222,12 @@
     "notetaking/Encoding and Decoding.md",
     "notetaking/Sharding vs Partitioning.md",
     "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
-    "notetaking/BLOB.md",
     "notetaking/Redis.md",
     "notetaking/How DB stores data.md",
     "notetaking/Pass by value vs pass by reference.md",
     "notetaking/blue green dep..md",
     "ai-llm/Retrieval Augmented Generation.md",
     "ai-llm/langchain.md",
-    "notetaking/Database indexing.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",

@@ -3,3 +3,4 @@
 - The Transaction Concept: Virtues and Limitations. [Gray (1981)](https://jimgray.azurewebsites.net/papers/theTransactionConcept.pdf).
 - The design of POSTGRES. [Stonebraker, Rowe (1986)](https://dl.acm.org/doi/pdf/10.1145/16856.16888).
 - Rules of Thumb in Data Engineering. [Gray, Shenay (1999)](http://research.microsoft.com/en-us/um/people/gray/papers/ms_tr_99_100_rules_of_thumb_in_data_engineering.pdf).
+[[some good papers]]

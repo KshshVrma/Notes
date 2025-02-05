@@ -1,10 +1,6 @@
-# Pante's Reading List
-
-This is a curated list of programming & software engineering articles that I've personally found to be interesting over the years. I hope it proves useful to others too.
-
-I periodically update this list. Please open an issue if any of the links are dead.
 
 
+[[some good papers]]
 ## Sections
 * [Blogs](#blogs)
   * [Companies](#companies)
@@ -289,7 +285,6 @@ I periodically update this list. Please open an issue if any of the links are de
 * [Top Mental Health and Prayer Apps Fail Spectacularly at Privacy, Security](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 * [What’s the matter with PGP?](https://blog.cryptographyengineering.com/2014/08/13/whats-matter-with-pgp/)
 * [Zanzibar: Google’s Consistent, Global Authorization System](https://www.usenix.org/system/files/atc19-pang.pdf)
-
 
 ## Programming Languages/Theory
 * [A response to "Erlang - overhyped or underestimated"](http://jlouisramblings.blogspot.com/2010/12/response-to-erlang-overhyped-or.html)

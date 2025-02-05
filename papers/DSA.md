@@ -6,3 +6,4 @@
 - Programming pearls: Algorithm design techniques. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/358234.381162).
 - Programming pearls: The back of the envelope. [Bentley (1984)](https://dl.acm.org/doi/pdf/10.1145/357994.381168).
 - Making data structures persistent. [Driscoll et al (1986)](https://dl.acm.org/doi/pdf/10.1145/12130.12142).
+[[some good papers]]
