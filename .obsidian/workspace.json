@@ -6,7 +6,7 @@
       {
         "id": "667e1b0556b08f9e",
         "type": "tabs",
-        "dimension": 83.81877022653723,
+        "dimension": 77.75080906148867,
         "children": [
           {
             "id": "ecb0d14105b97baa",
@@ -15,42 +15,60 @@
               "type": "markdown",
               "state": {
                 "file": "papers/Blogs.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Blogs"
             }
           },
           {
-            "id": "7fec758957ade9fe",
+            "id": "4a9215c0532267ae",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://untools.co/",
-                "title": "Tools for better thinking | Untools",
+                "url": "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql",
+                "title": "Nine ways to shoot yourself in the foot with PostgreSQL",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Tools for better thinking | Untools"
+              "title": "Nine ways to shoot yourself in the foot with PostgreSQL"
+            }
+          },
+          {
+            "id": "9d176e932335f8a9",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
+                "title": "VanRoyChapter.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "VanRoyChapter.pdf"
             }
           }
         ]
       },
       {
-        "id": "36bddd8ddbd18b0c",
+        "id": "761d4a6532638bd0",
         "type": "tabs",
-        "dimension": 16.181229773462782,
+        "dimension": 22.249190938511326,
         "children": [
           {
-            "id": "c363afd2c8903924",
+            "id": "911d50c704916ad9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "webviewer",
+              "state": {
+                "url": "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql",
+                "title": "Nine ways to shoot yourself in the foot with PostgreSQL",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Nine ways to shoot yourself in the foot with PostgreSQL"
             }
           }
         ]
@@ -110,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 244.5,
     "collapsed": true
   },
   "right": {
@@ -127,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Journey to Self.md",
+                "file": "papers/Blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Journey to Self"
+              "title": "Backlinks for Blogs"
             }
           },
           {
@@ -203,11 +221,13 @@
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
     "papers/Blogs.md",
+    "papers/Database.md",
     "papers/some good papers.md",
+    "papers/DSA.md",
+    "notetaking/Payment.md",
+    "notetaking/SSH.md",
     "notetaking/BLOB.md",
     "books/5AC.md",
-    "papers/Database.md",
-    "papers/DSA.md",
     "notetaking/SQL execution.md",
     "books/Journey.md",
     "Untitled.md",
@@ -226,8 +246,6 @@
     "notetaking/How DB stores data.md",
     "notetaking/Pass by value vs pass by reference.md",
     "notetaking/blue green dep..md",
-    "ai-llm/Retrieval Augmented Generation.md",
-    "ai-llm/langchain.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
