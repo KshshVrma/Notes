@@ -6,7 +6,7 @@
       {
         "id": "667e1b0556b08f9e",
         "type": "tabs",
-        "dimension": 77.75080906148867,
+        "dimension": 77.75080906148868,
         "children": [
           {
             "id": "ecb0d14105b97baa",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Blogs.md",
-                "mode": "preview",
+                "file": "notetaking/gss-api error.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Blogs"
+              "title": "gss-api error"
             }
           },
           {
@@ -128,8 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "d818c8a42e2ddf68",
@@ -221,6 +220,7 @@
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
     "papers/Blogs.md",
+    "notetaking/gss-api error.md",
     "papers/Database.md",
     "papers/some good papers.md",
     "papers/DSA.md",
@@ -245,7 +245,6 @@
     "notetaking/Redis.md",
     "notetaking/How DB stores data.md",
     "notetaking/Pass by value vs pass by reference.md",
-    "notetaking/blue green dep..md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
