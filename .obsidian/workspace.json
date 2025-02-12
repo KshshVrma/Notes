@@ -6,7 +6,6 @@
       {
         "id": "667e1b0556b08f9e",
         "type": "tabs",
-        "dimension": 77.75080906148868,
         "children": [
           {
             "id": "ecb0d14105b97baa",
@@ -14,61 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/gss-api error.md",
-                "mode": "source",
+                "file": "papers/Should Know.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "gss-api error"
+              "title": "Should Know"
             }
           },
           {
-            "id": "4a9215c0532267ae",
+            "id": "ebee3aeff8c3d5cf",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql",
-                "title": "Nine ways to shoot yourself in the foot with PostgreSQL",
+                "url": "https://cvcompiler.com/",
+                "title": "CV Compiler - Rock your tech resume",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Nine ways to shoot yourself in the foot with PostgreSQL"
+              "title": "CV Compiler - Rock your tech resume"
             }
           },
           {
-            "id": "9d176e932335f8a9",
+            "id": "3cba5a9d52568c0b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
-                "title": "VanRoyChapter.pdf",
+                "url": "https://learnxinyminutes.com/java/",
+                "title": "Learn Java in Y Minutes",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "VanRoyChapter.pdf"
+              "title": "Learn Java in Y Minutes"
             }
-          }
-        ]
-      },
-      {
-        "id": "761d4a6532638bd0",
-        "type": "tabs",
-        "dimension": 22.249190938511326,
-        "children": [
+          },
           {
-            "id": "911d50c704916ad9",
+            "id": "0f1df0c447ac1e7e",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql",
-                "title": "Nine ways to shoot yourself in the foot with PostgreSQL",
-                "mode": "webview"
+                "file": "doc/To_do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Nine ways to shoot yourself in the foot with PostgreSQL"
+              "icon": "lucide-file",
+              "title": "To_do"
             }
           }
         ]
@@ -219,17 +211,20 @@
   },
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
-    "papers/Blogs.md",
-    "notetaking/gss-api error.md",
+    "papers/Should Know.md",
+    "doc/To_do.md",
+    "notetaking/Microservices.md",
+    "books/Journey.md",
+    "notetaking/BLOB.md",
+    "papers/DSA.md",
     "papers/Database.md",
     "papers/some good papers.md",
-    "papers/DSA.md",
+    "papers/Blogs.md",
+    "notetaking/gss-api error.md",
     "notetaking/Payment.md",
     "notetaking/SSH.md",
-    "notetaking/BLOB.md",
     "books/5AC.md",
     "notetaking/SQL execution.md",
-    "books/Journey.md",
     "Untitled.md",
     "notetaking/encoding example.md",
     "notetaking/Togglz poc.md",
@@ -242,9 +237,6 @@
     "notetaking/Encoding and Decoding.md",
     "notetaking/Sharding vs Partitioning.md",
     "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
-    "notetaking/Redis.md",
-    "notetaking/How DB stores data.md",
-    "notetaking/Pass by value vs pass by reference.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
