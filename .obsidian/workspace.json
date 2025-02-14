@@ -11,14 +11,10 @@
             "id": "ecb0d14105b97baa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Should Know.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Should Know"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -212,6 +208,8 @@
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
     "papers/Should Know.md",
+    "notetaking/SSH.md",
+    "notetaking/A gentle introduction to SAML  SSOReady.md",
     "doc/To_do.md",
     "notetaking/Microservices.md",
     "books/Journey.md",
@@ -222,7 +220,6 @@
     "papers/Blogs.md",
     "notetaking/gss-api error.md",
     "notetaking/Payment.md",
-    "notetaking/SSH.md",
     "books/5AC.md",
     "notetaking/SQL execution.md",
     "Untitled.md",
@@ -236,7 +233,6 @@
     "notetaking/SQL Joins.md",
     "notetaking/Encoding and Decoding.md",
     "notetaking/Sharding vs Partitioning.md",
-    "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",

@@ -8,3 +8,6 @@ when the user wants to connect to the server in that case the server generated a
 
 for different os  , there are different way's to calculate this ssh string , eg in mac: terminal
 linux: terminal, windows putty.
+
+
+[[A gentle introduction to SAML  SSOReady]]
