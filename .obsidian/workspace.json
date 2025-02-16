@@ -11,38 +11,56 @@
             "id": "ecb0d14105b97baa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "papers/Paper List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paper List"
             }
           },
           {
-            "id": "ebee3aeff8c3d5cf",
+            "id": "1d571e1167156d8b",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://cvcompiler.com/",
-                "title": "CV Compiler - Rock your tech resume",
+                "url": "https://notes.stephenholiday.com/Kafka.pdf",
+                "title": "netdb-2011",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "CV Compiler - Rock your tech resume"
+              "title": "netdb-2011"
             }
           },
           {
-            "id": "3cba5a9d52568c0b",
+            "id": "0b42b2640a54318c",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://learnxinyminutes.com/java/",
-                "title": "Learn Java in Y Minutes",
+                "url": "https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
+                "title": "VanRoyChapter.pdf",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Learn Java in Y Minutes"
+              "title": "VanRoyChapter.pdf"
+            }
+          },
+          {
+            "id": "e025575b9907ec7f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://bitcoin.org/bitcoin.pdf",
+                "title": "bitcoin.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "bitcoin.pdf"
             }
           },
           {
@@ -59,7 +77,8 @@
               "title": "To_do"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 244.5,
+    "collapsed": true
   },
   "right": {
     "id": "d818c8a42e2ddf68",
@@ -205,19 +225,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ecb0d14105b97baa",
+  "active": "1d571e1167156d8b",
   "lastOpenFiles": [
+    "doc/To_do.md",
+    "papers/Paper List.md",
+    "papers/some good papers.md",
+    "papers/Blogs.md",
     "papers/Should Know.md",
     "notetaking/SSH.md",
     "notetaking/A gentle introduction to SAML  SSOReady.md",
-    "doc/To_do.md",
     "notetaking/Microservices.md",
     "books/Journey.md",
     "notetaking/BLOB.md",
     "papers/DSA.md",
     "papers/Database.md",
-    "papers/some good papers.md",
-    "papers/Blogs.md",
     "notetaking/gss-api error.md",
     "notetaking/Payment.md",
     "books/5AC.md",
@@ -232,7 +253,6 @@
     "notetaking/ACID props.md",
     "notetaking/SQL Joins.md",
     "notetaking/Encoding and Decoding.md",
-    "notetaking/Sharding vs Partitioning.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
