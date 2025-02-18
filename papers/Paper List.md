@@ -148,3 +148,5 @@
 148. Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases. [Verbitski et al (2017)](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf).
 149. Attention Is All You Need. [Vaswani et al (2017)](https://arxiv.org/pdf/1706.03762.pdf).
 150. Local-First Software: You Own Your Data, in spite of the Cloud. [Kleppmann et al (2019)](https://www.inkandswitch.com/local-first/static/local-first.pdf).
+
+[[some good papers]]
