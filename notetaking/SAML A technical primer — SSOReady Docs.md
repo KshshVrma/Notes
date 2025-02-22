@@ -2,7 +2,7 @@
 doc_type: hypothesis-highlights
 url: 'https://ssoready.com/docs/saml/saml-technical-primer'
 ---
-
+[[A gentle introduction to SAML  SSOReady]]
 # SAML: A technical primer — SSOReady Docs
 
 ## Metadata
