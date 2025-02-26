@@ -30,3 +30,7 @@ https://docs.spring.io/spring-security/reference/servlet/saml2/login/overview.ht
 
 
 
+i want to upgrade a spring boot project from version 2.5 to verson 3.0 however the even post some changes the sso request using saml2 was stuck in a redirect loop , now post setting the acsurl i am facing a redirection loop, for context this is the order of execution : of the current request: the user goes to the target url, from there he does a get request to target/saml/authenticate/x now the service provider gets to the identity provider with the saml request, and the idp post to the in target url/saml/sso but post that the user again gets to target/saml/authenticate/x.. so this same cycle repeats, let me know if you also want the flow pre migration to the new spring-boot version which was working earlier — - pre-migration flow: the user request the target url , next the service provider does a get request to the identity provider(saml) to which the identy provider responds with the saml to the target/saml/sso next the user is redirected to the target url successfully .. earlier i had no request handler for the idp response to /saml/sso, but still the application worked fine, so does the spring security library automatically handle the acs url in the old code?
+
+
+​

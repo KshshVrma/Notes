@@ -27,54 +27,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Saml Redirection Error.md",
+                "file": "papers/Paper List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saml Redirection Error"
+              "title": "Paper List"
             }
           },
           {
-            "id": "50bdddd932032488",
+            "id": "3f4092af3b0b639d",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://vadimkravcenko.com/shorts/falsehoods-junior-developers-believe-about-becoming-senior/",
-                "title": "Falsehoods Junior Developers believe about becoming Senior",
+                "url": "http://arxiv.org/pdf/1312.5602",
+                "title": "1312.5602",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Falsehoods Junior Developers believe about becoming Senior"
+              "title": "1312.5602"
             }
           },
           {
-            "id": "0b42b2640a54318c",
+            "id": "498f924fccb75846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notetaking/Saml with Spring Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Saml with Spring Security"
+            }
+          },
+          {
+            "id": "48193a79536f5801",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
-                "title": "VanRoyChapter.pdf",
+                "url": "http://www0.cs.ucl.ac.uk/staff/m.handley/papers/only-just-works.pdf",
+                "title": "wti.fm",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "VanRoyChapter.pdf"
+              "title": "wti.fm"
             }
           },
           {
-            "id": "e025575b9907ec7f",
+            "id": "d0669ada15e25b29",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://bitcoin.org/bitcoin.pdf",
-                "title": "bitcoin.pdf",
+                "url": "https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf",
+                "title": "NatureDeepReview.pdf",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "bitcoin.pdf"
+              "title": "NatureDeepReview.pdf"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -238,15 +252,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "015cc4d2daf84e35",
+  "active": "498f924fccb75846",
   "lastOpenFiles": [
+    "notetaking/Saml with Spring Security.md",
+    "papers/Paper List.md",
     "notetaking/tcp server.md",
     "notetaking/Saml Redirection Error.md",
     "notetaking/SAML A technical primer — SSOReady Docs.md",
     "books/Journey.md",
     "papers/Blogs.md",
     "books/5AC.md",
-    "papers/Paper List.md",
     "notetaking/Kafka.md",
     "doc/To_do.md",
     "papers/some good papers.md",
@@ -265,7 +280,6 @@
     "notetaking/Togglz poc.md",
     "notetaking/Toggles.md",
     "notetaking/Spring boot.md",
-    "create a link.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
