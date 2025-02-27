@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Saml with Spring Security.md",
+                "file": "books/Journey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saml with Spring Security"
+              "title": "Journey"
             }
           },
           {
@@ -254,6 +254,8 @@
   },
   "active": "498f924fccb75846",
   "lastOpenFiles": [
+    "notetaking/lld roadmap.md",
+    "notetaking/ChatGPT.md",
     "notetaking/Saml with Spring Security.md",
     "papers/Paper List.md",
     "notetaking/tcp server.md",
@@ -278,8 +280,6 @@
     "Untitled.md",
     "notetaking/encoding example.md",
     "notetaking/Togglz poc.md",
-    "notetaking/Toggles.md",
-    "notetaking/Spring boot.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
