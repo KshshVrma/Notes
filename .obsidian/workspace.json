@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/lld roadmap.md",
+                "file": "notetaking/Rate Limiting vs Throttling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lld roadmap"
+              "title": "Rate Limiting vs Throttling"
             }
           },
           {
@@ -225,6 +225,8 @@
   },
   "active": "ecb0d14105b97baa",
   "lastOpenFiles": [
+    "notetaking/lld roadmap.md",
+    "notetaking/Rate Limiting vs Throttling.md",
     "notetaking/cap theorem.md",
     "notetaking/Cluster vs pod vs container vs node.md",
     "ai-llm/langchain.md",
@@ -237,7 +239,6 @@
     "papers/some good papers.md",
     "Welcome.md",
     "books/5AC.md",
-    "notetaking/lld roadmap.md",
     "books/Journey.md",
     "notetaking/ChatGPT.md",
     "notetaking/Saml with Spring Security.md",
@@ -250,7 +251,6 @@
     "notetaking/Microservices.md",
     "notetaking/BLOB.md",
     "papers/DSA.md",
-    "papers/Database.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
