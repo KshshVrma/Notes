@@ -4,3 +4,10 @@ sso
 solr search
 tomcat server
 codecrafters
+
+gcp
+docker
+
+
+JAKE'S RESUME TEMPLATE
+https://www.overleaf.com/project/67d6ca76636781c7c9a68d39
