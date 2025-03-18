@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Flow(ci-cd).md",
+                "file": "notetaking/CI-CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flow(ci-cd)"
+              "title": "CI-CD"
             }
           },
           {
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notetaking/Flow(ci-cd).md",
+                "file": "notetaking/CI-CD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flow(ci-cd)"
+              "title": "Backlinks for CI-CD"
             }
           },
           {
@@ -277,8 +277,9 @@
   },
   "active": "11562b21500f5fec",
   "lastOpenFiles": [
-    "notetaking/Cluster vs pod vs container vs node.md",
     "notetaking/Flow(ci-cd).md",
+    "notetaking/CI-CD.md",
+    "notetaking/Cluster vs pod vs container vs node.md",
     "doc/To_do.md",
     "papers/Blogs.md",
     "papers/Database.md",
@@ -302,7 +303,6 @@
     "notetaking/Rate Limiting vs Throttling.md",
     "notetaking/cap theorem.md",
     "ai-llm/langchain.md",
-    "ai-llm/Retrieval Augmented Generation.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
