@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Spring boot.md",
+                "file": "notetaking/Creational design patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring boot"
+              "title": "Creational design patterns"
             }
           },
           {
@@ -62,75 +62,9 @@
               "icon": "globe-2",
               "title": "The Anatomy of a Search Engine"
             }
-          },
-          {
-            "id": "6faed65d7ff27b50",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf",
-                "title": "NatureDeepReview.pdf",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "NatureDeepReview.pdf"
-            }
-          },
-          {
-            "id": "0f1df0c447ac1e7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Blogs.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blogs"
-            }
-          },
-          {
-            "id": "481b4347ca5e2fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "papers/Blogs.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blogs"
-            }
-          },
-          {
-            "id": "11562b21500f5fec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notetaking/CI-CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CI-CD"
-            }
-          },
-          {
-            "id": "aae434a6fc156e7f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notetaking/CI-CD.md",
+                "file": "notetaking/Creational design patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CI-CD"
+              "title": "Backlinks for Creational design patterns"
             }
           },
           {
@@ -275,34 +209,34 @@
       "random-note:Open random note": false
     }
   },
-  "active": "11562b21500f5fec",
+  "active": "717670f22d397a60",
   "lastOpenFiles": [
-    "notetaking/Flow(ci-cd).md",
-    "notetaking/CI-CD.md",
-    "notetaking/Cluster vs pod vs container vs node.md",
-    "doc/To_do.md",
-    "papers/Blogs.md",
-    "papers/Database.md",
-    "papers/Paper List.md",
-    "papers/Should Know.md",
-    "create a link.md",
-    "Welcome.md",
+    "notetaking/Maven.md",
     "papers/some good papers.md",
     "notetaking/Creational design patterns.md",
+    "notetaking/Docker.md",
+    "papers/llm papers.md",
+    "papers/Should Know.md",
+    "papers/Blogs.md",
+    "notetaking/Spring boot.md",
+    "notetaking/CI-CD.md",
+    "notetaking/Flow(ci-cd).md",
+    "notetaking/Cluster vs pod vs container vs node.md",
+    "doc/To_do.md",
+    "papers/Database.md",
+    "papers/Paper List.md",
+    "create a link.md",
+    "Welcome.md",
     "notetaking/end to end encryption.md",
     "notetaking/lld roadmap.md",
     "notetaking/Design patterns(must know).md",
     "papers/DSA.md",
     "books/5AC.md",
     "notetaking/Git.md",
-    "notetaking/Maven.md",
-    "notetaking/Spring boot.md",
     "notetaking/Saml with Spring Security.md",
     "notetaking/SSH.md",
     "books/Journey.md",
     "notetaking/Rate Limiting vs Throttling.md",
-    "notetaking/cap theorem.md",
-    "ai-llm/langchain.md",
     "dsa/dsa_1.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "papers",
