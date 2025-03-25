@@ -11,3 +11,8 @@ docker
 
 JAKE'S RESUME TEMPLATE
 https://www.overleaf.com/project/67d6ca76636781c7c9a68d39
+
+
+https://code-vulnerability-detector-wldhxxbvf367hfxap4gxti.streamlit.app/
+
+https://interviewready.io/learn/system-design-course/how-do-i-use-this-course/what-do-we-offer?tab=chapters
