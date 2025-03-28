@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "667e1b0556b08f9e",
+        "id": "139928b009cfa8a4",
         "type": "tabs",
         "children": [
           {
-            "id": "e319d54d0844ec2c",
+            "id": "1f271d624bb5f878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Canary Deployments.md",
+                "file": "notetaking/Design patterns(must know).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Canary Deployments"
+              "title": "Design patterns(must know)"
             }
           },
           {
-            "id": "484a65707ea1231c",
+            "id": "6c3ea6116cc9bb6b",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/334.pdf",
-                "title": "The Anatomy of a Search Engine",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "The Anatomy of a Search Engine"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notetaking/Canary Deployments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Canary Deployments"
+              "title": "Backlinks"
             }
           },
           {
@@ -180,8 +176,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e319d54d0844ec2c",
+  "active": "6c3ea6116cc9bb6b",
   "lastOpenFiles": [
+    "notetaking/Design patterns(must know).md",
+    "notetaking/lld roadmap.md",
+    "notetaking/Math.random.md",
+    "notetaking/Preface.md",
+    "notetaking/Canary Deployments.md",
     "notetaking/cap theorem.md",
     "notetaking/CI-CD.md",
     "notetaking/Git.md",
@@ -202,13 +203,8 @@
     "create a link.md",
     "Welcome.md",
     "notetaking/end to end encryption.md",
-    "notetaking/lld roadmap.md",
-    "notetaking/Design patterns(must know).md",
     "papers/DSA.md",
     "books/5AC.md",
-    "notetaking/Saml with Spring Security.md",
-    "notetaking/SSH.md",
-    "books/Journey.md",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
