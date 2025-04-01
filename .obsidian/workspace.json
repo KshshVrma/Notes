@@ -25,10 +25,56 @@
             "id": "6c3ea6116cc9bb6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "notetaking/SOLID Principes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SOLID Principes"
+            }
+          },
+          {
+            "id": "a45683826e0d4287",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf",
+                "title": "35179.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "35179.pdf"
+            }
+          },
+          {
+            "id": "dc50acd517031edb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+                "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ImageNet Classification with Deep Convolutional Neural Networks"
+            }
+          },
+          {
+            "id": "e8d622b846336393",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cse.buffalo.edu/~okennedy/courses/papers/hdfs.pdf",
+                "title": "Microsoft Word - ThePaperSub.doc",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Microsoft Word - ThePaperSub.doc"
             }
           }
         ],
@@ -160,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,33 +225,34 @@
   },
   "active": "6c3ea6116cc9bb6b",
   "lastOpenFiles": [
-    "notetaking/Design patterns(must know).md",
+    "books/Journey.md",
+    "notetaking/SOLID Principes.md",
+    "papers/Paper List.md",
+    "books/Grokking the System Design Interview.pdf",
+    "papers/Should Know.md",
+    "papers/some good papers.md",
+    "notetaking/hld roadmap.md",
+    "notetaking/ACID props.md",
     "notetaking/lld roadmap.md",
+    "notetaking/Design patterns(must know).md",
     "notetaking/Math.random.md",
     "notetaking/Preface.md",
     "notetaking/Canary Deployments.md",
     "notetaking/cap theorem.md",
     "notetaking/CI-CD.md",
     "notetaking/Git.md",
-    "papers/some good papers.md",
     "notetaking/Maven.md",
     "dsa/Sde sheet by Striver.pdf",
     "doc/To_do.md",
-    "papers/Paper List.md",
     "notetaking/Creational design patterns.md",
     "notetaking/Docker.md",
     "papers/llm papers.md",
-    "papers/Should Know.md",
     "papers/Blogs.md",
     "notetaking/Spring boot.md",
     "notetaking/Flow(ci-cd).md",
     "notetaking/Cluster vs pod vs container vs node.md",
     "papers/Database.md",
     "create a link.md",
-    "Welcome.md",
-    "notetaking/end to end encryption.md",
-    "papers/DSA.md",
-    "books/5AC.md",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
@@ -212,7 +260,6 @@
     "aptitude/aptitrick.pdf",
     "core subjects/React Js.pdf",
     "core subjects/Proper DBMS Notes.pdf",
-    "core subjects/OOPS Interview Solutions.pdf",
-    "core subjects/MongoDB notes.pdf"
+    "core subjects/OOPS Interview Solutions.pdf"
   ]
 }
