@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/SOLID Principes.md",
+                "file": "notetaking/Adapter pattern.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SOLID Principes"
+              "title": "Adapter pattern"
             }
           },
           {
@@ -225,15 +225,16 @@
   },
   "active": "6c3ea6116cc9bb6b",
   "lastOpenFiles": [
-    "books/Journey.md",
+    "notetaking/lld roadmap.md",
+    "notetaking/Adapter pattern.md",
     "notetaking/SOLID Principes.md",
+    "books/Journey.md",
     "papers/Paper List.md",
     "books/Grokking the System Design Interview.pdf",
     "papers/Should Know.md",
     "papers/some good papers.md",
     "notetaking/hld roadmap.md",
     "notetaking/ACID props.md",
-    "notetaking/lld roadmap.md",
     "notetaking/Design patterns(must know).md",
     "notetaking/Math.random.md",
     "notetaking/Preface.md",
@@ -252,7 +253,6 @@
     "notetaking/Flow(ci-cd).md",
     "notetaking/Cluster vs pod vs container vs node.md",
     "papers/Database.md",
-    "create a link.md",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
