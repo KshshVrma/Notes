@@ -18,6 +18,6 @@ Problem with Storing all request:
 
 Solution Idempotent keys:
 	so by design if the client send a random number associated with the transaction , the server can store that number and check if that transaction has occur or not, 
-		now if the client wants to retry payment, in that case it can resend the request with that same random number. and the server will ensure that it will proceed only iff the number hasn't been marked as done.
+		now if the client wants to retry payment, in that case it can resend the request with that same random number. and the server will ensure that it will proceed only if the number hasn't been marked as done.
 		
 [[ACID props]]
