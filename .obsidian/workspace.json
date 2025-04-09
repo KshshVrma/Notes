@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Payment.md",
+                "file": "notetaking/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Payment"
+              "title": "Docker"
             }
           },
           {
@@ -252,6 +252,8 @@
   },
   "active": "1f271d624bb5f878",
   "lastOpenFiles": [
+    "notetaking/Forward Proxy.md",
+    "notetaking/Payment.md",
     "notetaking/SSH.md",
     "books/Journey.md",
     "notetaking/Redis.md",
@@ -278,8 +280,6 @@
     "notetaking/Git.md",
     "notetaking/Maven.md",
     "dsa/Sde sheet by Striver.pdf",
-    "doc/To_do.md",
-    "notetaking/Docker.md",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
