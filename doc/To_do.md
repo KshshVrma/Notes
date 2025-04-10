@@ -4,6 +4,7 @@ sso
 solr search
 tomcat server
 codecrafters
+copilot
 
 gcp
 docker
