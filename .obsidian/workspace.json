@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/github copilot.md",
+                "file": "notetaking/Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "github copilot"
+              "title": "Java"
             }
           },
           {
@@ -252,8 +252,9 @@
   },
   "active": "1f271d624bb5f878",
   "lastOpenFiles": [
-    "doc/To_do.md",
     "notetaking/github copilot.md",
+    "notetaking/Java.md",
+    "doc/To_do.md",
     "notetaking/Docker.md",
     "notetaking/Forward Proxy.md",
     "notetaking/Payment.md",
@@ -278,7 +279,6 @@
     "notetaking/Math.random.md",
     "notetaking/Preface.md",
     "notetaking/Canary Deployments.md",
-    "notetaking/cap theorem.md",
     "dsa/Sde sheet by Striver.pdf",
     "dsa/dsa_1.pdf",
     "papers",
