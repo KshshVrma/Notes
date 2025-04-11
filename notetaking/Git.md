@@ -31,3 +31,6 @@ git push
 |   |   |   |
 |---|---|---|
 |`git push origin main`|Uploads commits to remote|Updates the **remote repository**|
+
+
+another good option is git cherry pick : this option allows to pick specific coommits of a differrent branch to be applied to the curretn branch meaning that wihtout copying the previous commits and merging the branches, we can pick up the code from the other branches.
