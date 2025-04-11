@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Git.md",
+                "file": "notetaking/Why do HashMaps double insize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Why do HashMaps double insize"
             }
           },
           {
@@ -252,6 +252,8 @@
   },
   "active": "1f271d624bb5f878",
   "lastOpenFiles": [
+    "notetaking/Git.md",
+    "notetaking/Why do HashMaps double insize.md",
     "notetaking/Vim.md",
     "notetaking/Intellij.md",
     "notetaking/tcp server.md",
@@ -276,8 +278,6 @@
     "papers/Paper List.md",
     "notetaking/SOLID Principles.md",
     "papers/Blogs.md",
-    "notetaking/Adapter pattern.md",
-    "notetaking/lld roadmap.md",
     "books/Grokking the System Design Interview.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "dsa/dsa_1.pdf",
