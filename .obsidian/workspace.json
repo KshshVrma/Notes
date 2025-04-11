@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Java.md",
+                "file": "notetaking/Dsa Patterns.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java"
+              "title": "Dsa Patterns"
             }
           },
           {
@@ -252,14 +252,17 @@
   },
   "active": "1f271d624bb5f878",
   "lastOpenFiles": [
-    "notetaking/github copilot.md",
+    "notetaking/Reverse Proxy.md",
+    "notetaking/Dsa Patterns.md",
+    "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
+    "books/Journey.md",
     "notetaking/Java.md",
+    "notetaking/github copilot.md",
     "doc/To_do.md",
     "notetaking/Docker.md",
     "notetaking/Forward Proxy.md",
     "notetaking/Payment.md",
     "notetaking/SSH.md",
-    "books/Journey.md",
     "notetaking/Redis.md",
     "ai-llm/Retrieval Augmented Generation.md",
     "ai-llm/langchain.md",
@@ -276,9 +279,6 @@
     "papers/Should Know.md",
     "papers/some good papers.md",
     "notetaking/hld roadmap.md",
-    "notetaking/Math.random.md",
-    "notetaking/Preface.md",
-    "notetaking/Canary Deployments.md",
     "dsa/Sde sheet by Striver.pdf",
     "dsa/dsa_1.pdf",
     "papers",
