@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Git Update vs git pull.md",
+                "file": "notetaking/Tips.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Update vs git pull"
+              "title": "Tips"
             }
           },
           {
@@ -266,8 +266,10 @@
   },
   "active": "1f271d624bb5f878",
   "lastOpenFiles": [
-    "notetaking/Bloom Filters.md",
+    "notetaking/Docker.md",
+    "notetaking/Tips.md",
     "notetaking/Git Update vs git pull.md",
+    "notetaking/Bloom Filters.md",
     "notetaking/Spring Boot project Structure.md",
     "papers/Should Know.md",
     "papers/Paper List.md",
@@ -284,14 +286,12 @@
     "notetaking/Java.md",
     "notetaking/github copilot.md",
     "doc/To_do.md",
-    "notetaking/Docker.md",
     "notetaking/Forward Proxy.md",
     "notetaking/Payment.md",
     "notetaking/SSH.md",
     "notetaking/Redis.md",
     "ai-llm/Retrieval Augmented Generation.md",
     "ai-llm/langchain.md",
-    "notetaking/ACID props.md",
     "books/Grokking the System Design Interview.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "dsa/dsa_1.pdf",
