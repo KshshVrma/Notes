@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Tips.md",
+                "file": "notetaking/Facade Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tips"
+              "title": "Facade Pattern"
             }
           },
           {
@@ -33,76 +33,6 @@
               },
               "icon": "globe-2",
               "title": "40 Key Computer Science Concepts Explained In Layman’s Terms"
-            }
-          },
-          {
-            "id": "343d9df60e2cf77b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dl.acm.org/doi/pdf/10.1145/16856.16888",
-                "title": "The design of POSTGRES",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "The design of POSTGRES"
-            }
-          },
-          {
-            "id": "d2ee18bbbee161b9",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf",
-                "title": "paper.dvi",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "paper.dvi"
-            }
-          },
-          {
-            "id": "26ad379fbfdeb9df",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://svn-archive.torproject.org/svn/projects/design-paper/tor-design.pdf",
-                "title": "tor-design.pdf",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "tor-design.pdf"
-            }
-          },
-          {
-            "id": "a45683826e0d4287",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/35179.pdf",
-                "title": "35179.pdf",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "35179.pdf"
-            }
-          },
-          {
-            "id": "dc50acd517031edb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://papers.nips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
-                "title": "ImageNet Classification with Deep Convolutional Neural Networks",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "ImageNet Classification with Deep Convolutional Neural Networks"
             }
           },
           {
@@ -266,12 +196,19 @@
   },
   "active": "1f271d624bb5f878",
   "lastOpenFiles": [
-    "notetaking/Docker.md",
+    "notetaking/Behavioral pattern.md",
+    "notetaking/Decorator Pattern.md",
+    "notetaking/Design patterns(must know).md",
+    "notetaking/UML Diagrams.md",
+    "notetaking/Facade Pattern.md",
+    "notetaking/Observer Pattern.md",
+    "papers/Should Know.md",
+    "doc/To_do.md",
     "notetaking/Tips.md",
+    "notetaking/Docker.md",
     "notetaking/Git Update vs git pull.md",
     "notetaking/Bloom Filters.md",
     "notetaking/Spring Boot project Structure.md",
-    "papers/Should Know.md",
     "papers/Paper List.md",
     "papers/Blogs.md",
     "notetaking/Why do HashMaps double insize.md",
@@ -285,13 +222,6 @@
     "books/Journey.md",
     "notetaking/Java.md",
     "notetaking/github copilot.md",
-    "doc/To_do.md",
-    "notetaking/Forward Proxy.md",
-    "notetaking/Payment.md",
-    "notetaking/SSH.md",
-    "notetaking/Redis.md",
-    "ai-llm/Retrieval Augmented Generation.md",
-    "ai-llm/langchain.md",
     "books/Grokking the System Design Interview.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "dsa/dsa_1.pdf",
