@@ -6,5 +6,5 @@ queue, stack , vector, set, map
 
 it is very fast language as it is compiler directly to the machine code by the gcc compiler, also this means that this language is not os independent? ie differnt compilers would be requied fro mac and windows, linux, this is one of the disadvantages of it over java.
 
-another thing is that it does come with a garbage collector, however it has features like deconstructors which allows it to destroy the objects whenever the runtime ends for them.
+another thing is that it does not come with a garbage collector, however it has features like deconstructors which allows it to destroy the objects whenever the runtime ends for them.
  it supports dynamic memory allocation with the keywords: malloc, alloc, realloc.
