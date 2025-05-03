@@ -13,7 +13,8 @@ url: 'https://chatgpt.com/c/679112ec-4074-800e-9324-9f5a6bac19ca'
 
 ## Page Notes
 ## Highlights
-- #include <iostream> #include <vector> #include <algorithm> bool compareByFirst(const std::pair<int, int>& a, const std::pair<int, int>& b) { return a.first < b.first; // Ascending order based on the first element } int main() { std::vector<std::pair<int, int>> vec = {{3, 2}, {1, 5}, {2, 4}}; std::sort(vec.begin(), vec.end(), compareByFirst); for (const auto& p : vec) { std::cout << "(" << p.first << ", " << p.second << ") "; } return 0; } 
+- #include <iostream> #include <vector> #include <algorithm> bool compareByFirst(const std::pair<int, int>& a, const std::pair<int, int>& b) { return a.first < b.first; // Ascending order based on the first element }
+- int main() { std::vector<std::pair<int, int>> vec = {{3, 2}, {1, 5}, {2, 4}}; std::sort(vec.begin(), vec.end(), compareByFirst); for (const auto& p : vec) { std::cout << "(" << p.first << ", " << p.second << ") "; } return 0; } 
 
 #include <algorithm> bool compareBySecond(const std::pair<int, int>& a, const std::pair<int, int>& b) { return a.second < b.second; // Ascending order based on the second element } int main() { std::vector<std::pair<int, int>> vec = {{3, 2}, {1, 5}, {2, 4}}; std::sort(vec.begin(), vec.end(), compareBySecond); for (const auto& p : vec) { std::cout << "(" << p.first << ", " << p.second << ") "; } return 0; } 
 

@@ -13,4 +13,4 @@ Interface Segregation principle:
 the user must not be forced to implemnt methods of an interface if he does not want to use that methods, so the interfaces should be broken down in order to 
 
 Dependency inversion principle
-
+[[lld roadmap]]
