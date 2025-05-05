@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/lld roadmap.md",
+                "file": "notetaking/Important Excel formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lld roadmap"
+              "title": "Important Excel formulas"
             }
           }
         ],
@@ -183,6 +183,15 @@
   },
   "active": "a51c3614a5621b38",
   "lastOpenFiles": [
+    "notetaking/java streams.md",
+    "notetaking/Important Excel formulas.md",
+    "notetaking/java functional programming.md",
+    "notetaking/Java.md",
+    "notetaking/blue green dep..md",
+    "notetaking/Bloom Filters.md",
+    "notetaking/BLOB.md",
+    "notetaking/Rate Limiting vs Throttling.md",
+    "notetaking/lld roadmap.md",
     "notetaking/Design patterns(must know).md",
     "notetaking/Cluster vs pod vs container vs node.md",
     "notetaking/SOLID Principles.md",
@@ -195,21 +204,12 @@
     "notetaking/c++ custom sort+ job seq prob.md",
     "notetaking/C++.md",
     "notetaking/C.md",
-    "notetaking/blue green dep..md",
-    "notetaking/BLOB.md",
     "notetaking/API's.md",
     "notetaking/Adapter pattern.md",
     "notetaking/ACID props.md",
     "notetaking/neovim.md",
     "notetaking/Vim.md",
-    "books/Journey.md",
     "books/Grokking the System Design Interview.pdf",
-    "books/5AC.md",
-    "doc/To_do.md",
-    "notetaking/llm use-cases.md",
-    "notetaking/SAML 2.0 Login Overview  Spring Security.md",
-    "notetaking/encoding example.md",
-    "notetaking/end to end encryption.md",
     "dsa/Sde sheet by Striver.pdf",
     "dsa/dsa_1.pdf",
     "papers",

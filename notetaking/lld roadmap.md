@@ -16,6 +16,18 @@ url: 'https://chatgpt.com/c/67c0693e-8f8c-800e-a088-5ffb110467f8'
 creational
 structural
 behavioral
+
+|   |   |   |
+|---|---|---|
+|**Creational Patterns**|How objects are created|How to create objects without repeating code|
+
+|   |   |   |
+|---|---|---|
+|2. **Structural Patterns**|How classes and objects are combined|How to organize large codebases cleanly|
+
+|   |   |   |
+|---|---|---|
+|3. **Behavioral Patterns**|How objects communicate|How different parts of the app talk to each other|
 ## Highlights
 - Class diagrams represent the blueprint of your system, showing how different classes interact. You use them to: ✔ Break down a system into objects✔ Show relationships between objects✔ Define attributes and methods — [Updated on 2025-02-27 19:06:57](https://hyp.is/6kIQSvUPEe-FySMjnVN-Nw/chatgpt.com/c/67c0693e-8f8c-800e-a088-5ffb110467f8) — Group: #me-only
 
