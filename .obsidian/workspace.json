@@ -22,17 +22,59 @@
             }
           },
           {
+            "id": "b87dcd406a2a275b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "c3687c0562798efc",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.algomaster.io/p/websockets",
+                "title": "What are WebSockets and Why are they Used?",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "What are WebSockets and Why are they Used?"
+            }
+          },
+          {
             "id": "a51c3614a5621b38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Important Excel formulas.md",
+                "file": "papers/Paper List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Important Excel formulas"
+              "title": "Paper List"
+            }
+          },
+          {
+            "id": "95c0920016df47a7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf",
+                "title": "paper.dvi",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "paper.dvi"
             }
           }
         ],
@@ -181,36 +223,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a51c3614a5621b38",
+  "active": "b87dcd406a2a275b",
   "lastOpenFiles": [
-    "notetaking/java streams.md",
-    "notetaking/Important Excel formulas.md",
-    "notetaking/java functional programming.md",
-    "notetaking/Java.md",
-    "notetaking/blue green dep..md",
-    "notetaking/Bloom Filters.md",
-    "notetaking/BLOB.md",
-    "notetaking/Rate Limiting vs Throttling.md",
+    "papers/Design.md",
+    "papers/Untitled.md",
     "notetaking/lld roadmap.md",
-    "notetaking/Design patterns(must know).md",
-    "notetaking/Cluster vs pod vs container vs node.md",
-    "notetaking/SOLID Principles.md",
-    "notetaking/Behavioral pattern.md",
-    "papers/Blogs.md",
+    "notetaking/CI-CD.md",
     "notetaking/Facade Pattern.md",
+    "notetaking/Encoding and Decoding.md",
+    "notetaking/encoding example.md",
     "notetaking/Docker.md",
-    "notetaking/cap theorem.md",
-    "notetaking/Canary Deployments.md",
-    "notetaking/c++ custom sort+ job seq prob.md",
-    "notetaking/C++.md",
-    "notetaking/C.md",
-    "notetaking/API's.md",
-    "notetaking/Adapter pattern.md",
+    "notetaking/Cluster vs pod vs container vs node.md",
+    "notetaking/java streams.md",
+    "notetaking/UML Diagrams.md",
     "notetaking/ACID props.md",
-    "notetaking/neovim.md",
-    "notetaking/Vim.md",
-    "books/Grokking the System Design Interview.pdf",
+    "notetaking/blue green dep..md",
     "dsa/Sde sheet by Striver.pdf",
+    "doc/To_do.md",
+    "papers/Blogs.md",
+    "papers/Paper List.md",
+    "papers/Should Know.md",
+    "notetaking/Important Excel formulas.md",
+    "notetaking/How DB stores data.md",
+    "notetaking/hld roadmap.md",
+    "notetaking/gss-api error.md",
+    "notetaking/Google Kubernetes Engine.md",
+    "notetaking/Git Update vs git pull.md",
+    "notetaking/Git.md",
+    "notetaking/Forward Proxy.md",
+    "notetaking/java functional programming.md",
+    "books/Grokking the System Design Interview.pdf",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
