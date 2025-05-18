@@ -25,3 +25,6 @@ https://interviewready.io/learn/system-design-course/how-do-i-use-this-course/wh
 
 
 a sessions management app which stores user sessions.
+
+
+https://github.com/liquidslr/leetcode-company-wise-problems/blob/main/Apple/1.%20Thirty%20Days.csv

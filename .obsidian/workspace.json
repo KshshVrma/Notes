@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Journey.md",
+                "file": "doc/To_do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journey"
+              "title": "To_do"
             }
           },
           {
@@ -253,6 +253,7 @@
   },
   "active": "a2313da1c8f19ff0",
   "lastOpenFiles": [
+    "books/Journey.md",
     "books/Grokking the System Design Interview.pdf",
     "notetaking/Behavioral pattern.md",
     "notetaking/Bloom Filters.md",
