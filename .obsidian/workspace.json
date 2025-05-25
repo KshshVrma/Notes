@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Maven.md",
+                "file": "doc/To_do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maven"
+              "title": "To_do"
+            }
+          },
+          {
+            "id": "1f0ffaf3deacdddf",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f",
+                "title": "API Architecture - Design Best Practices for REST APIs | by Abdul Rafee Wahab | Medium",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "API Architecture - Design Best Practices for REST APIs | by Abdul Rafee Wahab | Medium"
             }
           },
           {
@@ -225,13 +239,16 @@
   },
   "active": "00e88a797d53ccb6",
   "lastOpenFiles": [
-    "books/Journey.md",
     "doc/To_do.md",
+    "papers/Paper List.md",
+    "notetaking/SOLID Principles.md",
+    "papers/Design.md",
+    "papers/lld.md",
+    "books/Journey.md",
+    "notetaking/Maven.md",
     "notetaking/neovim.md",
     "notetaking/Vim.md",
     "notetaking/Clean Code Tools.md",
-    "papers/Design.md",
-    "papers/lld.md",
     "Untitled 1.md",
     "books/Grokking the System Design Interview.pdf",
     "notetaking/Behavioral pattern.md",
@@ -250,10 +267,7 @@
     "notetaking/java streams.md",
     "notetaking/UML Diagrams.md",
     "notetaking/ACID props.md",
-    "notetaking/blue green dep..md",
     "dsa/Sde sheet by Striver.pdf",
-    "papers/Paper List.md",
-    "papers/Should Know.md",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",

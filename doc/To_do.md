@@ -13,6 +13,9 @@ docker
 session maintain
 indexing in db
 
+Sonar Qube
+
+
 
 
 JAKE'S RESUME TEMPLATE
@@ -28,3 +31,7 @@ a sessions management app which stores user sessions.
 
 
 https://github.com/liquidslr/leetcode-company-wise-problems/blob/main/Apple/1.%20Thirty%20Days.csv
+
+github actions
+
+manim library which creates videos, you can write text which will generate code which will be used to create a video
