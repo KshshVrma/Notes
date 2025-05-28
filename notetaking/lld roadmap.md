@@ -47,3 +47,8 @@ behavioral
 
 
 
+the importatn design patterns are the creational behavioral and structural pattern, creational determine how to create new classes in a way that suits huge codebases
+eg the patterns: singleton, builder, factory, abstract factory
+
+then there are behavioral pattern which include : observer, etc
+the structural patterns include patterns like adapter, facade pattern, decorator pattern etc
