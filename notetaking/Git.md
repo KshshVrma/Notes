@@ -18,7 +18,7 @@ git push
 to update the commit history:
 git cherry-pick -m 1 abc
 git cherry-pci abc
-git rebase -i ~3
+git rebase -i HEAD~4
 
 |   |   |   |
 |---|---|---|
