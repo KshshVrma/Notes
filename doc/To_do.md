@@ -35,3 +35,13 @@ https://github.com/liquidslr/leetcode-company-wise-problems/blob/main/Apple/1.%2
 github actions
 
 manim library which creates videos, you can write text which will generate code which will be used to create a video
+
+inorder to build a chatbot for a travel application along with some hotel recommendation system: 
+concetps to be known: 
+rag
+text embeddings
+vector database
+document chunking
+retrieval algorithms
+rag pipelines
+deployment

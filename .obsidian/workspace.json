@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Git.md",
-                "mode": "source",
-                "source": false
+                "file": "papers/Paper List.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Paper List"
             }
           },
           {
@@ -239,6 +239,16 @@
   },
   "active": "e9c81b4bdb1280ac",
   "lastOpenFiles": [
+    "books/Dr_ Joe Dispenza.pdf",
+    "books/Einstein -- Walter Isaacson -- 2007 -- Simon & Schuster -- ad7a3d737bad016ba4163c5ea0833d95 -- Anna’s Archive.pdf",
+    "books/Steve Jobs -- Walter Issacson -- 2011 -- Simon & Schuster Books -- 5320b8098fe27625842c6e3854e23170 -- Anna’s Archive.pdf",
+    "papers/Design.md",
+    "papers/lld.md",
+    "doc/To_do.md",
+    "papers/Blogs.md",
+    "notetaking/blue green dep..md",
+    "books/Grokking the System Design Interview.pdf",
+    "notetaking/Git.md",
     "notetaking/cap theorem.md",
     "notetaking/CI-CD.md",
     "notetaking/Decorator Pattern.md",
@@ -256,24 +266,14 @@
     "create a link.md",
     "papers/Paper List.md",
     "papers/llm papers.md",
-    "papers/lld.md",
     "papers/DSA.md",
-    "papers/Design.md",
-    "papers/Blogs.md",
     "notetaking/Why do HashMaps double insize.md",
-    "notetaking/Whats OAuth2 Anyway - Blog by Roman Glushko.md",
-    "notetaking/What is the difference between Google Kubernetes Engine (GKE) and Google Compute Engine (GCE).md",
-    "notetaking/Vim.md",
-    "notetaking/UML Diagrams.md",
-    "books/Grokking the System Design Interview.pdf",
     "dsa/Sde sheet by Striver.pdf",
     "problems",
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
     "aptitude/bshsjaja.pdf",
-    "aptitude/aptitrick.pdf",
-    "core subjects/React Js.pdf",
-    "core subjects/Proper DBMS Notes.pdf"
+    "aptitude/aptitrick.pdf"
   ]
 }
