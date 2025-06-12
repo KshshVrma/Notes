@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Paper List.md",
-                "mode": "preview",
+                "file": "notetaking/Struts.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Paper List"
+              "title": "Struts"
             }
           },
           {
@@ -239,6 +239,8 @@
   },
   "active": "e9c81b4bdb1280ac",
   "lastOpenFiles": [
+    "papers/Paper List.md",
+    "notetaking/Struts.md",
     "books/Dr_ Joe Dispenza.pdf",
     "books/Einstein -- Walter Isaacson -- 2007 -- Simon & Schuster -- ad7a3d737bad016ba4163c5ea0833d95 -- Anna’s Archive.pdf",
     "books/Steve Jobs -- Walter Issacson -- 2011 -- Simon & Schuster Books -- 5320b8098fe27625842c6e3854e23170 -- Anna’s Archive.pdf",
@@ -264,7 +266,6 @@
     "problems/stack-overflow.md",
     "Untitled.md",
     "create a link.md",
-    "papers/Paper List.md",
     "papers/llm papers.md",
     "papers/DSA.md",
     "notetaking/Why do HashMaps double insize.md",
@@ -273,7 +274,6 @@
     "dsa/dsa_1.pdf",
     "papers",
     "core subjects/Low Level Design Notes.pdf",
-    "aptitude/bshsjaja.pdf",
-    "aptitude/aptitrick.pdf"
+    "aptitude/bshsjaja.pdf"
   ]
 }
