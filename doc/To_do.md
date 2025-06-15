@@ -6,6 +6,8 @@ tomcat server
 codecrafters
 copilot
 
+https://github.com/donnemartin/system-design-primer
+
 gcp
 docker
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/Redis.md",
+                "file": "papers/Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis"
+              "title": "Design"
             }
           },
           {
@@ -225,6 +225,8 @@
   },
   "active": "b846330ee861476c",
   "lastOpenFiles": [
+    "doc/To_do.md",
+    "notetaking/Redis.md",
     "papers/lld.md",
     "papers/Should Know.md",
     "problems/cricinfo.md",
@@ -236,7 +238,6 @@
     "books/Dr_ Joe Dispenza.pdf",
     "books/Einstein -- Walter Isaacson -- 2007 -- Simon & Schuster -- ad7a3d737bad016ba4163c5ea0833d95 -- Anna’s Archive.pdf",
     "books/Steve Jobs -- Walter Issacson -- 2011 -- Simon & Schuster Books -- 5320b8098fe27625842c6e3854e23170 -- Anna’s Archive.pdf",
-    "doc/To_do.md",
     "papers/Blogs.md",
     "notetaking/blue green dep..md",
     "books/Grokking the System Design Interview.pdf",
@@ -254,7 +255,6 @@
     "problems/parking-lot.md",
     "problems/stack-overflow.md",
     "Untitled.md",
-    "create a link.md",
     "dsa/Sde sheet by Striver.pdf",
     "problems",
     "dsa/dsa_1.pdf",
