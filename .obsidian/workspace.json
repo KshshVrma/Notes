@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Design.md",
+                "file": "doc/To_do.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "To_do"
             }
           },
           {
@@ -225,20 +225,21 @@
   },
   "active": "b846330ee861476c",
   "lastOpenFiles": [
+    "papers/Blogs.md",
+    "papers/Paper List.md",
+    "doc/Today_Do.md",
+    "papers/Design.md",
     "doc/To_do.md",
     "notetaking/Redis.md",
     "papers/lld.md",
     "papers/Should Know.md",
     "problems/cricinfo.md",
     "problems/food-delivery-service.md",
-    "papers/Paper List.md",
-    "papers/Design.md",
     "papers/DSA.md",
     "notetaking/Struts.md",
     "books/Dr_ Joe Dispenza.pdf",
     "books/Einstein -- Walter Isaacson -- 2007 -- Simon & Schuster -- ad7a3d737bad016ba4163c5ea0833d95 -- Anna’s Archive.pdf",
     "books/Steve Jobs -- Walter Issacson -- 2011 -- Simon & Schuster Books -- 5320b8098fe27625842c6e3854e23170 -- Anna’s Archive.pdf",
-    "papers/Blogs.md",
     "notetaking/blue green dep..md",
     "books/Grokking the System Design Interview.pdf",
     "notetaking/Git.md",
@@ -254,7 +255,6 @@
     "papers/some good papers.md",
     "problems/parking-lot.md",
     "problems/stack-overflow.md",
-    "Untitled.md",
     "dsa/Sde sheet by Striver.pdf",
     "problems",
     "dsa/dsa_1.pdf",

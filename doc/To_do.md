@@ -47,3 +47,6 @@ document chunking
 retrieval algorithms
 rag pipelines
 deployment
+
+instanceof operator in java
+iterator in java
