@@ -25,3 +25,5 @@ howeever stil c++ is the best! because java is so versbose that it requires to b
 in the future too we might have better alternatives like go, which will enfore the development of new java versions.
 
 another speciality fo jva is the it has a built in garbage collector , which make the responsibiltiy of the developer lesser so that they don't have to mannully clall free everytime ensuring that the memorey of the heap remains intact and is somewhat dev freingdly in that direction.
+
+Linkedlist<String> mylinkedlist = new Linkedlist<String>(); 2mylinkedlist. add("two"); 3myLinkedList.addFirst("one"); 4Iterator<String> iter = mylinkedlist.iterator();while (iter.hasNext()) { 6System.out.println(iter.next());  }

@@ -25,14 +25,12 @@
             "id": "b846330ee861476c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "doc/To_do.md",
-                "mode": "source",
-                "source": true
+                "file": "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf"
               },
-              "icon": "lucide-file",
-              "title": "To_do"
+              "icon": "lucide-file-text",
+              "title": "CRACKING the · CODING INTERVIEW ( PDFDrive )"
             }
           },
           {
@@ -61,20 +59,6 @@
               },
               "icon": "lucide-file",
               "title": "lld"
-            }
-          },
-          {
-            "id": "95c0920016df47a7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf",
-                "title": "paper.dvi",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "paper.dvi"
             }
           }
         ],
@@ -135,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d818c8a42e2ddf68",
@@ -151,16 +136,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CRACKING the · CODING INTERVIEW ( PDFDrive )"
             }
           },
           {
@@ -191,6 +177,20 @@
             }
           },
           {
+            "id": "4644ae3757c3b451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notetaking/Java.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java"
+            }
+          },
+          {
             "id": "4f532c7c4e608b11",
             "type": "leaf",
             "state": {
@@ -202,12 +202,12 @@
               "title": "Outline of create a link"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,11 +225,15 @@
   },
   "active": "b846330ee861476c",
   "lastOpenFiles": [
+    "notetaking/Java.md",
+    "books/A Practical Guide To Quantitative Finance Interviews -- Xinfeng Zhou; edited by Brett Jiu -- 1st ed_, [Scotts Valley, Calif_], California, 2008 -- 9781435715752 -- 40eb7a4a910a84e6f4ee95b1d8ca9aca -- Anna’s Archive.pdf",
+    "books/Structure and Interpretation of Computer Programs, 2nd ed_ -- Harold Abelson, Gerald Jay Sussman, Julie Sussman [Harold -- fa8138d55d11315fd054b7ee78b8c5ef -- Anna’s Archive.pdf",
+    "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
+    "doc/To_do.md",
     "papers/Blogs.md",
     "papers/Paper List.md",
     "doc/Today_Do.md",
     "papers/Design.md",
-    "doc/To_do.md",
     "notetaking/Redis.md",
     "papers/lld.md",
     "papers/Should Know.md",
@@ -253,13 +257,8 @@
     "notetaking/gss-api error.md",
     "papers/Database.md",
     "papers/some good papers.md",
-    "problems/parking-lot.md",
-    "problems/stack-overflow.md",
     "dsa/Sde sheet by Striver.pdf",
     "problems",
-    "dsa/dsa_1.pdf",
-    "papers",
-    "core subjects/Low Level Design Notes.pdf",
-    "aptitude/bshsjaja.pdf"
+    "dsa/dsa_1.pdf"
   ]
 }

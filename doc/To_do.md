@@ -50,3 +50,7 @@ deployment
 
 instanceof operator in java
 iterator in java
+
+redis:
+public endpoint
+redis-16728.c330.asia-south1-1.gce.redns.redis-cloud.com:16728
