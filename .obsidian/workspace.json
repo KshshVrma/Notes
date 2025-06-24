@@ -34,20 +34,6 @@
             }
           },
           {
-            "id": "1f0ffaf3deacdddf",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f",
-                "title": "API Architecture - Design Best Practices for REST APIs | by Abdul Rafee Wahab | Medium",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "API Architecture - Design Best Practices for REST APIs | by Abdul Rafee Wahab | Medium"
-            }
-          },
-          {
             "id": "a2313da1c8f19ff0",
             "type": "leaf",
             "state": {
@@ -135,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notetaking/Java.md",
+                "file": "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +131,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Java"
+              "title": "Backlinks for CRACKING the · CODING INTERVIEW ( PDFDrive )"
             }
           },
           {
@@ -222,12 +208,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4644ae3757c3b451",
+  "active": "b846330ee861476c",
   "lastOpenFiles": [
+    "books/Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive.pdf",
+    "books/Structure and Interpretation of Computer Programs, 2nd ed_ -- Harold Abelson, Gerald Jay Sussman, Julie Sussman [Harold -- fa8138d55d11315fd054b7ee78b8c5ef -- Anna’s Archive.pdf",
     "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
     "notetaking/Java.md",
     "books/A Practical Guide To Quantitative Finance Interviews -- Xinfeng Zhou; edited by Brett Jiu -- 1st ed_, [Scotts Valley, Calif_], California, 2008 -- 9781435715752 -- 40eb7a4a910a84e6f4ee95b1d8ca9aca -- Anna’s Archive.pdf",
-    "books/Structure and Interpretation of Computer Programs, 2nd ed_ -- Harold Abelson, Gerald Jay Sussman, Julie Sussman [Harold -- fa8138d55d11315fd054b7ee78b8c5ef -- Anna’s Archive.pdf",
     "doc/To_do.md",
     "papers/Blogs.md",
     "papers/Paper List.md",
