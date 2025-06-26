@@ -14,7 +14,7 @@ docker
 //how to manage sessions
 session maintain
 indexing in db
-
+chrome://settings/accessibility
 Sonar Qube
 
 
