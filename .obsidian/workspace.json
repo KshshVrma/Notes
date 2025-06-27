@@ -25,12 +25,14 @@
             "id": "b846330ee861476c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf"
+                "file": "doc/To_do.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CRACKING the · CODING INTERVIEW ( PDFDrive )"
+              "icon": "lucide-file",
+              "title": "To_do"
             }
           },
           {
@@ -74,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intellij shortcuts.md",
+                "file": "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for intellij shortcuts"
+              "title": "Backlinks for CRACKING the · CODING INTERVIEW ( PDFDrive )"
             }
           },
           {
@@ -234,15 +236,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bce93b5319e4466c",
+  "active": "b846330ee861476c",
   "lastOpenFiles": [
-    "intellij shortcuts.md",
     "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
-    "doc/To_do.md",
+    "intellij shortcuts.md",
+    "notetaking/Java.md",
     "books/Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive.pdf",
+    "doc/To_do.md",
     "papers/lld.md",
     "books/Structure and Interpretation of Computer Programs, 2nd ed_ -- Harold Abelson, Gerald Jay Sussman, Julie Sussman [Harold -- fa8138d55d11315fd054b7ee78b8c5ef -- Anna’s Archive.pdf",
-    "notetaking/Java.md",
     "books/A Practical Guide To Quantitative Finance Interviews -- Xinfeng Zhou; edited by Brett Jiu -- 1st ed_, [Scotts Valley, Calif_], California, 2008 -- 9781435715752 -- 40eb7a4a910a84e6f4ee95b1d8ca9aca -- Anna’s Archive.pdf",
     "papers/Blogs.md",
     "papers/Paper List.md",
@@ -269,7 +271,6 @@
     "notetaking/Google Kubernetes Engine.md",
     "notetaking/gss-api error.md",
     "papers/Database.md",
-    "papers/some good papers.md",
     "dsa/Sde sheet by Striver.pdf",
     "problems"
   ]
