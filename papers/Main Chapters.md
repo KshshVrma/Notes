@@ -1,0 +1,15 @@
+- **[CLI Tools](https://github.com/trimstray/the-book-of-secret-knowledge#cli-tools-toc)**
+- **[GUI Tools](https://github.com/trimstray/the-book-of-secret-knowledge#gui-tools-toc)**
+- **[Web Tools](https://github.com/trimstray/the-book-of-secret-knowledge#web-tools-toc)**
+- **[Systems/Services](https://github.com/trimstray/the-book-of-secret-knowledge#systemsservices-toc)**
+- **[Networks](https://github.com/trimstray/the-book-of-secret-knowledge#networks-toc)**
+- **[Containers/Orchestration](https://github.com/trimstray/the-book-of-secret-knowledge#containersorchestration-toc)**
+- **[Manuals/Howtos/Tutorials](https://github.com/trimstray/the-book-of-secret-knowledge#manualshowtostutorials-toc)**
+- **[Inspiring Lists](https://github.com/trimstray/the-book-of-secret-knowledge#inspiring-lists-toc)**
+- **[Blogs/Podcasts/Videos](https://github.com/trimstray/the-book-of-secret-knowledge#blogspodcastsvideos-toc)**
+- **[Hacking/Penetration Testing](https://github.com/trimstray/the-book-of-secret-knowledge#hackingpenetration-testing-toc)**
+- **[Your daily knowledge and news](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc)**
+- **[Other Cheat Sheets](https://github.com/trimstray/the-book-of-secret-knowledge#other-cheat-sheets-toc)**
+- **[Shell One-liners](https://github.com/trimstray/the-book-of-secret-knowledge#shell-one-liners-toc)**
+- **[Shell Tricks](https://github.com/trimstray/the-book-of-secret-knowledge#shell-tricks-toc)**
+- **[Shell Functions](https://github.com/trimstray/the-book-of-secret-knowledge#shell-functions-toc)**

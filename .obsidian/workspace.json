@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Design.md",
+                "file": "papers/Main Chapters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design"
+              "title": "Main Chapters"
             }
           },
           {
@@ -27,24 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/Journey.md",
+                "file": "papers/Paper List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journey"
+              "title": "Paper List"
             }
           },
           {
-            "id": "a2313da1c8f19ff0",
+            "id": "ca5e315c05e4ece4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "webviewer",
               "state": {
-                "file": "books/Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive.pdf"
+                "url": "http://arxiv.org/pdf/1706.03762",
+                "title": "1706.03762",
+                "mode": "webview"
               },
-              "icon": "lucide-file-text",
-              "title": "Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive"
+              "icon": "globe-2",
+              "title": "1706.03762"
+            }
+          },
+          {
+            "id": "9cc02bfcb517e663",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf",
+                "title": "The next 700 programming languages",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "The next 700 programming languages"
             }
           },
           {
@@ -75,8 +91,7 @@
               "title": "intellij shortcuts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,7 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 213.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,21 +251,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b846330ee861476c",
+  "active": "00e88a797d53ccb6",
   "lastOpenFiles": [
-    "books/5AC.md",
+    "papers/Main Chapters.md",
+    "papers/Design.md",
+    "papers/Paper List.md",
+    "books/Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive.pdf",
+    "notetaking/Java.md",
     "doc/To_do.md",
+    "doc/Today_Do.md",
+    "books/Journey.md",
+    "books/5AC.md",
     "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
     "intellij shortcuts.md",
-    "notetaking/Java.md",
-    "books/Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive.pdf",
     "papers/lld.md",
     "books/Structure and Interpretation of Computer Programs, 2nd ed_ -- Harold Abelson, Gerald Jay Sussman, Julie Sussman [Harold -- fa8138d55d11315fd054b7ee78b8c5ef -- Anna’s Archive.pdf",
     "books/A Practical Guide To Quantitative Finance Interviews -- Xinfeng Zhou; edited by Brett Jiu -- 1st ed_, [Scotts Valley, Calif_], California, 2008 -- 9781435715752 -- 40eb7a4a910a84e6f4ee95b1d8ca9aca -- Anna’s Archive.pdf",
     "papers/Blogs.md",
-    "papers/Paper List.md",
-    "doc/Today_Do.md",
-    "papers/Design.md",
     "notetaking/Redis.md",
     "papers/Should Know.md",
     "problems/cricinfo.md",
@@ -270,8 +287,6 @@
     "notetaking/Dsa Patterns.md",
     "notetaking/Encoding and Decoding.md",
     "notetaking/Google Kubernetes Engine.md",
-    "notetaking/gss-api error.md",
-    "papers/Database.md",
     "dsa/Sde sheet by Striver.pdf",
     "problems"
   ]
