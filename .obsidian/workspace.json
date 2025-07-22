@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "papers/Main Chapters.md",
+                "file": "notetaking/week 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Main Chapters"
-            }
-          },
-          {
-            "id": "b846330ee861476c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Grokking the System Design Interview.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Grokking the System Design Interview"
+              "title": "week 1.2"
             }
           },
           {
@@ -57,8 +45,7 @@
               "title": "Dr_ Joe Dispenza"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,15 +196,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b846330ee861476c",
+  "active": "00e88a797d53ccb6",
   "lastOpenFiles": [
-    "papers/Paper List.md",
+    "papers/Main Chapters.md",
+    "notetaking/week 1.2.md",
     "books/Dr_ Joe Dispenza.pdf",
+    "books/Grokking the System Design Interview.pdf",
+    "papers/Paper List.md",
     "notetaking/week1.1.md",
     "notetaking/Week1.md",
-    "books/Grokking the System Design Interview.pdf",
     "books/CRACKING the · CODING INTERVIEW ( PDFDrive ).pdf",
-    "papers/Main Chapters.md",
     "papers/Design.md",
     "books/Structure and Interpretation of Computer Programs -- Harold Abelson and Gerald Jay Sussman with Julie Sussman -- 2nd, 2019 -- MIT Press -- 3e5baadb81f87f3594f64aa97fcc4f41 -- Anna’s Archive.pdf",
     "notetaking/Java.md",
