@@ -11,3 +11,9 @@ the are multiple possible implementaions of ai one could be making use of the Ji
 other than that we need to provide sufficient examples but now we should ensure that there are no hallucinations as this can actuallly be used by the developers especially useful for customer escalations.
 
 // log hotel recommendation developer productivity, etc are some of the other use cases which can be taken up
+
+for low level design there are some fundamental concepts that need to be mastered , which include, the conversion of a design or the requirements given by the user to a class diatgram so that the solution can be implemented
+the points to be noted are the nouns should be conveted to classes and the verbs to their methods, 
+the points to be taken care of is that while conversion we should take in to the account the relation ship between the classes , ie is it a is a relation or is it a has a relation if it is a is a relation it's most like going to be implemented usnig inheritence if it is a has a relation in that case it is just going to be it either a composition denoted by diamond symbol it means that one class cannot exist independently to the other class, and one example of this would be if we have a person and a credit card the card cnnot exist without the person , the other case would be cart and course where either can exist without the other and this would mean assosicaiton ;
+
+When it comes to the single responsibility priciple in that case we, can assume that it should be in use by a single stakeholder so tha tif in future we do need to modify we are not breaking multiple flows.
