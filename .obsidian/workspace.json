@@ -198,8 +198,9 @@
   },
   "active": "00e88a797d53ccb6",
   "lastOpenFiles": [
-    "papers/Main Chapters.md",
+    "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
     "notetaking/week 1.2.md",
+    "papers/Main Chapters.md",
     "books/Dr_ Joe Dispenza.pdf",
     "books/Grokking the System Design Interview.pdf",
     "papers/Paper List.md",
@@ -231,7 +232,6 @@
     "notetaking/cap theorem.md",
     "notetaking/CI-CD.md",
     "notetaking/Decorator Pattern.md",
-    "notetaking/Docker.md",
     "dsa/Sde sheet by Striver.pdf",
     "problems"
   ]
