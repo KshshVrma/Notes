@@ -23,3 +23,20 @@ Inheritance is about deciding which classes should be a part of the other class 
 important intellij shortcuts include alt+1 and ctr+alt+left or right depending on the class that needs to be traversed. it is important to get to know about the experiences as well and on top of that, should have some hands on experience.
 
 The ai model;s which are used for video generation generally make use of the concepts of diffusion and they depend upon transormers, so suppose if you have a input and then in multiple phases we pass on the outputs of the transformers to themselfes untill the output has gone through multiple cycles and the output is satisfactory , not only that it is similar to diffusion in physics in the sense that it moves towards more disorder? maybe.
+
+declarative, pause, volume, warm-up, frameworks, one structure at a time
+
+para:
+point action result ask
+
+3,2,1  on the spot
+3 steps
+2 types
+1 thing
+
+mastery cycle:
+1. try and apply
+2. reflect and review 
+3. plan and improve
+
+you can sound the way you want to..
