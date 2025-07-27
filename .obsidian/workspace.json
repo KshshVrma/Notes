@@ -25,12 +25,14 @@
             "id": "ca5e315c05e4ece4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Grokking the System Design Interview.pdf"
+                "file": "notetaking/Week2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Grokking the System Design Interview"
+              "icon": "lucide-file",
+              "title": "Week2"
             }
           },
           {
@@ -60,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,14 +213,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0efce3007fafc83d",
+  "active": "ca5e315c05e4ece4",
   "lastOpenFiles": [
-    "Pasted image 20250727123853.png",
-    "Pasted image 20250727122249.png",
     "notetaking/week 1.2.md",
+    "notetaking/Week2.md",
+    "books/Grokking the System Design Interview.pdf",
     "notetaking/Important pattern Summary.md",
     "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
-    "books/Grokking the System Design Interview.pdf",
+    "books/Head First Design Patterns -- Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra -- 1, 2004 -- O'Reilly Media -- 13001ae9507ed312ff6e134bad6aa8df -- Anna’s Archive.pdf",
+    "Pasted image 20250727123853.png",
+    "Pasted image 20250727122249.png",
     "notetaking/Untitled.md",
     "books/Dr_ Joe Dispenza.pdf",
     "papers/Main Chapters.md",
@@ -248,7 +252,6 @@
     "books/Steve Jobs -- Walter Issacson -- 2011 -- Simon & Schuster Books -- 5320b8098fe27625842c6e3854e23170 -- Anna’s Archive.pdf",
     "notetaking/blue green dep..md",
     "notetaking/Git.md",
-    "notetaking/cap theorem.md",
-    "dsa/Sde sheet by Striver.pdf"
+    "notetaking/cap theorem.md"
   ]
 }
