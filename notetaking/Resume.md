@@ -57,7 +57,8 @@
 
 \begin{center}
   \textbf{\Huge \scshape Kashish Verma} \\ \vspace{1pt}
-\small Lucknow, India $\cdot$ +91-8795662299 $\cdot$ \href{mailto:kashishverma8382@gmail.com}{kashishverma8382@gmail.com} \\
+\small Lucknow, India $\cdot$ +91-8795662299 $\cdot$ \href{mailto:kashishverma8382@gmail.com}{kashishverma8382@gmail.com}
+ \\
 \href{https://www.linkedin.com/in/kashish-verma-342347221/}{LinkedIn} $\cdot$ 
 \href{https://github.com/KshshVrma}{GitHub (90+ Repos)} $\cdot$ 
 \href{https://leetcode.com/Kashish_024/}{Leetcode (750+)} $\cdot$ 
@@ -80,19 +81,19 @@
 \section*{Experience}
 \begin{itemize}[leftmargin=*]
 
-  \item \textbf{Software Engineer 1}, Serko Ltd., Bengaluru \hfill \emph{Jan 2025 – Present}
+  \item \textbf{Software Engineer 1}, Serko Ltd., Bengaluru \hfill \emph{Jan 2025 -- Present}
     \begin{itemize}
       \item Strengthened platform security by redesigning encryption logic across distributed services, improving data protection and compliance.
       \item Led automated report generation and cleanup during a customer-impacting P0 incident, reducing manual overhead and ensuring rapid recovery.
     \end{itemize}
 
-  \item \textbf{Software Engineer 1}, Sabre, Bengaluru \hfill \emph{Aug 2024 – Jan 2025}
+  \item \textbf{Software Engineer 1}, Sabre, Bengaluru \hfill \emph{Aug 2024 -- Jan 2025}
     \begin{itemize}
       \item Delivered critical security patches to production APIs, preventing known vulnerabilities and aligning with internal compliance standards.
       \item Developed shell and Python scripts for automating database extracts, reducing manual developer effort by ~50\%.
     \end{itemize}
 
-  \item \textbf{Software Engineer Intern}, Sabre, Bengaluru \hfill \emph{Jan 2024 – Jul 2024}
+  \item \textbf{Software Engineer Intern}, Sabre, Bengaluru \hfill \emph{Jan 2024 -- Jul 2024}
     \begin{itemize}
       \item Resolved a critical booking system bug that impacted nearly 50\% of transactions, improving user experience and restoring booking accuracy.
 
@@ -137,10 +138,11 @@
 %-----------ACHIEVEMENTS-----------
 \section{Achievements}
 \begin{itemize}
-  \item Solved 1000+ problems on CodeChef, Leetcode, GFG, Codeforces
+  \small{\item Solved 1000+ problems on CodeChef, Leetcode, GFG, Codeforces
   \item CodeChef Global Rank 307 (Starters 57), Rank 433 (Starters 53)
-  \item Contributed in Hacktoberfest 2022
-  \item 1000+ commits across 90+ github repositories
+  \item 1000+ commits across 90+ Github repositories
+  \item Received performance-based scholarship twice and published 2 research papers in scopus-indexed journals
+   \item Contributed in Hacktoberfest 2022 with meaningful open-source contributions}
 \end{itemize}
 
 
