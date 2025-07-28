@@ -20,3 +20,14 @@ extra:
 continue on wibe coding if time permits.
 Ai for the hack: check if we can make user of vertex ai/gemini to what use cases.
 as scraping a 2fa site might not be as straight forward, however we can assume that we can have the data already present somehow and that might as well work.
+
+struts are a framework which are normally used in legacy systems, especially with spring applications, the point being that they require some xml based configurations, we declare a struts.xml file where we declare the mapping between the jsp and the class which handles the actions.
+the configuration file is like action> name =x path =x. now this path should contain the action class. the action class intern contains a execute method which normally contains all the logic ie it calls the service class which calls the dao class and so on..
+
+apart from code copilots we can have hud's which do not interfere with the process of the work but are like invisible assistence we can compare and contrast using chatgpt vs using grammerly grammerly helps us without us asking and this can acttually be useful , so in general we have some use cases defined, for easy task we can take help of copilot but for advanced task hud's might be better.
+
+applicaiton might take about 10 months so take that into account . 
+
+Rate-limiters are fixed limits beyond which the system refuses to responde while throttleing is reduciton inthe response rate so that the request a full filled but in a slow manner, also debouncing is loading while the response loads.
+
+Rate-limiters are normally present in the middleware layer or the server layer, depending on the usecasel.
