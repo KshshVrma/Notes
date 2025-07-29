@@ -31,3 +31,12 @@ applicaiton might take about 10 months so take that into account .
 Rate-limiters are fixed limits beyond which the system refuses to responde while throttleing is reduciton inthe response rate so that the request a full filled but in a slow manner, also debouncing is loading while the response loads.
 
 Rate-limiters are normally present in the middleware layer or the server layer, depending on the usecasel.
+
+in the jmeter scripts we can add an iteration of scripts so that we can have the test based on the ui as well, we just need to provide the required parameters to the next step of the process and then we would be able to run the scripts even for the ui processes including login, etc.
+
+nullobject design pattern is a pattern where we try to minimize the possibility of null pointer exception the concept is that there could be thousands of classes however we have a way to ensure that we never throw any null pointer exception this has it 's usecases and demerits the point is that for each interface we will have a implementaion which handles null cases so that wheenver from a factory pattern we request for a class which does not have any implementaion instead of sending the nullpointer exception we can simply send the nullhandler implementaion which ensures that whaterver be the case if the factory class has been callded then we have some default implementaiton of the code and no random null pointer exceptions are thrown'
+
+when checking the course schedules if we can only proceed if all the courses and their pre-requisites can be fullfiled we can solve the problem using cycle detection for directled graphs where we simply have a visisted arrray and a pathvisited which we check for detecting cycles in the graph.
+
+Dependency inversion principle is the last of the solid principles and it states that high level classes should not depend on low level implementaions but instead should depend upon abstraction which means that a higher level class should only depend upon interfaces, the benefits is that if there is any change in implementation of the interfact the high level class should handle it without any change to the low level class , this ensures that the code is maintainable and the test can be written in a better manner as creating mocks for interfaces is easy as compared to classes with a lot of dependencies from other classes , thus the code is more testable this way as well.
+
