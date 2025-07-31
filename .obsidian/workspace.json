@@ -39,12 +39,14 @@
             "id": "21cab6b3ffe6e172",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf"
+                "file": "notetaking/Week2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive"
+              "icon": "lucide-file",
+              "title": "Week2"
             }
           },
           {
@@ -62,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,17 +215,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ca5e315c05e4ece4",
+  "active": "21cab6b3ffe6e172",
   "lastOpenFiles": [
     "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
+    "notetaking/Important pattern Summary.md",
+    "notetaking/Week2.md",
     "notetaking/Resume.md",
     "notetaking/Resume(overleaf).md",
     "doc/To_do.md",
     "doc/Today_Do.md",
-    "notetaking/Week2.md",
     "notetaking/week 1.2.md",
     "books/Grokking the System Design Interview.pdf",
-    "notetaking/Important pattern Summary.md",
     "books/Head First Design Patterns -- Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra -- 1, 2004 -- O'Reilly Media -- 13001ae9507ed312ff6e134bad6aa8df -- Anna’s Archive.pdf",
     "Pasted image 20250727123853.png",
     "Pasted image 20250727122249.png",
