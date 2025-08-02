@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +213,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b81171c3ce34fd64",
+  "active": "0efce3007fafc83d",
   "lastOpenFiles": [
-    "books/Head First Design Patterns_ Building Extensible and -- Eric Freeman, Elisabeth Robson, Eric Freeman, Elisabeth -- Head First Series, 2, 2021 -- 9781492078005 -- baa86919b1e94222902d4b845d01df9b -- Anna’s Archive.pdf",
     "notetaking/Important pattern Summary.md",
+    "books/Head First Design Patterns_ Building Extensible and -- Eric Freeman, Elisabeth Robson, Eric Freeman, Elisabeth -- Head First Series, 2, 2021 -- 9781492078005 -- baa86919b1e94222902d4b845d01df9b -- Anna’s Archive.pdf",
     "books/Dr_ Joe Dispenza.pdf",
     "Pasted image 20250802125927.png",
     "notetaking/llm use-cases.md",
