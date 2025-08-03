@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notetaking/week 1.2.md",
+                "file": "notetaking/week 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "week 1.2"
+              "title": "week 3"
             }
           },
           {
@@ -58,9 +58,21 @@
               "icon": "lucide-file",
               "title": "Important pattern Summary"
             }
+          },
+          {
+            "id": "4336b06d8c4d514d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "observ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,13 +125,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "right": {
     "id": "d818c8a42e2ddf68",
@@ -213,20 +223,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0efce3007fafc83d",
+  "active": "21cab6b3ffe6e172",
   "lastOpenFiles": [
+    "notetaking/week 3.md",
+    "notetaking/week 1.2.md",
+    "books/Dr_ Joe Dispenza.pdf",
+    "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
     "notetaking/Important pattern Summary.md",
     "books/Head First Design Patterns_ Building Extensible and -- Eric Freeman, Elisabeth Robson, Eric Freeman, Elisabeth -- Head First Series, 2, 2021 -- 9781492078005 -- baa86919b1e94222902d4b845d01df9b -- Anna’s Archive.pdf",
-    "books/Dr_ Joe Dispenza.pdf",
     "Pasted image 20250802125927.png",
     "notetaking/llm use-cases.md",
     "notetaking/lld roadmap.md",
     "notetaking/Design patterns(must know).md",
     "notetaking/Decorator Pattern.md",
-    "notetaking/week 1.2.md",
     "books/Head First Design Patterns -- Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra -- 1, 2004 -- O'Reilly Media -- 13001ae9507ed312ff6e134bad6aa8df -- Anna’s Archive.pdf",
     "notetaking/Week2.md",
-    "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
     "notetaking/Resume.md",
     "notetaking/Resume(overleaf).md",
     "doc/To_do.md",
