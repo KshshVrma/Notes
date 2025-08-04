@@ -25,12 +25,14 @@
             "id": "21cab6b3ffe6e172",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Dr_ Joe Dispenza.pdf"
+                "file": "notetaking/week 3.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Dr_ Joe Dispenza"
+              "icon": "lucide-file",
+              "title": "week 3"
             }
           },
           {
@@ -225,9 +227,9 @@
   },
   "active": "21cab6b3ffe6e172",
   "lastOpenFiles": [
+    "books/Dr_ Joe Dispenza.pdf",
     "notetaking/week 3.md",
     "notetaking/week 1.2.md",
-    "books/Dr_ Joe Dispenza.pdf",
     "books/System Design Interview - An Insider's Guide, Second Edition -- Alex Xu, Sahn Lam -- 2, 2020 -- Independently published -- 9788664653404 -- 30e4ea689fd525784e765ddaedab0491 -- Anna’s Archive.pdf",
     "notetaking/Important pattern Summary.md",
     "books/Head First Design Patterns_ Building Extensible and -- Eric Freeman, Elisabeth Robson, Eric Freeman, Elisabeth -- Head First Series, 2, 2021 -- 9781492078005 -- baa86919b1e94222902d4b845d01df9b -- Anna’s Archive.pdf",
@@ -262,7 +264,6 @@
     "books/A Practical Guide To Quantitative Finance Interviews -- Xinfeng Zhou; edited by Brett Jiu -- 1st ed_, [Scotts Valley, Calif_], California, 2008 -- 9781435715752 -- 40eb7a4a910a84e6f4ee95b1d8ca9aca -- Anna’s Archive.pdf",
     "papers/Blogs.md",
     "notetaking/Redis.md",
-    "papers/Should Know.md",
     "books/Einstein -- Walter Isaacson -- 2007 -- Simon & Schuster -- ad7a3d737bad016ba4163c5ea0833d95 -- Anna’s Archive.pdf"
   ]
 }
